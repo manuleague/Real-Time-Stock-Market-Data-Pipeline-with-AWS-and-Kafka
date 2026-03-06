@@ -7,9 +7,9 @@ This repository contains the source code for an end-to-end real-time data engine
 
 **Read the full Technical Documentation:**
 For a deep dive into the architecture, cloud infrastructure setup and step-by-step implementation, read my article on Medium:
-👉 **[Read the Full Documentation on Medium](https://medium.com/@danalacheemanuel/real-time-stock-market-data-processing-pipeline-using-aws-and-apache-kafka-88716364dcf4)**
+**[Read the Full Documentation on Medium](https://medium.com/@danalacheemanuel/real-time-stock-market-data-processing-pipeline-using-aws-and-apache-kafka-88716364dcf4)**
 
-## 🛠️ Technology Stack
+## Technology Stack
 *   **Data Ingestion:** Python, Finnhub WebSocket API
 *   **Message Broker:** Apache Kafka, Zookeeper
 *   **Cloud Infrastructure (AWS):** EC2 (Ubuntu 24.04), S3, Glue Crawler, Athena
